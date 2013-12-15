@@ -1,4 +1,3 @@
-s2Clean
-=======
+## s2Clean™ Theme
 
-s2Clean Theme; for WordPress (requires PHP v5.3+).
+s2Clean Theme; for WordPress. s2Clean is a premium product. This public repo is for issue tracking only.
