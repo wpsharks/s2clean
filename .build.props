@@ -1,0 +1,15 @@
+project_title                    = s2Clean
+
+project_owner                    = websharks
+project_slug                     = s2clean
+
+project_namespace                = WebSharks\\s2Clean
+project_sub_namespace            = s2Clean
+
+project_version                  = %y%m%d
+
+project_php_required_version     = 7.0.1
+project_php_tested_up_to_version = ${php.version}
+
+project_wp_required_version      = 4.4
+project_wp_tested_up_to_version  = 4.4

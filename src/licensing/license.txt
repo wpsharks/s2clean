@@ -1,0 +1,44 @@
+Copyright: © 2013 [WebSharks, Inc.](http://www.websharks-inc.com/bizdev/) (coded in the USA)
+
+= This Software is Comprised of Two Parts =
+
+1. All PHP code (and integrated HTML) in this software have been released under a [GPL license](http://www.gnu.org/licenses/gpl-3.0.html); just like WordPress® itself. You can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation.
+2. With the exception of any Additional Acknowledgments (as detailed below); all other parts of this software; including (but not limited to) application-specific CSS/JavaScript/images, the overall design, and all support-related services and documentation; are licensed commerically and should NOT be redistributed. See: <http://www.websharks-inc.com/product/s2clean/>
+
+Unless you have our prior written consent, you must NOT directly or indirectly license, sub-license, sell, resell, or provide for free; part (2) of this software; or make an offer to do any of these things. All of these things are strictly prohibited with part (2) of this software.
+
+= Credits / Additional Acknowledgments =
+
+* Software designed for WordPress®.
+	- GPL License <http://codex.wordpress.org/GPL>
+	- WordPress® <http://wordpress.org>
+* Some JavaScript extensions require jQuery.
+	- GPL-Compatible License <http://jquery.org/license>
+	- jQuery <http://jquery.com/>
+* CSS framework and some JavaScript functionality provided by Bootstrap.
+	- GPL-Compatible License <http://getbootstrap.com/getting-started/#license-faqs>
+	- Bootstrap <http://getbootstrap.com/>
+* Some icons provided by Font Awesome.
+	- GPL-Compatible License <http://fortawesome.github.io/Font-Awesome/license/>
+	- Font Awesome <http://fortawesome.github.io/Font-Awesome/>
+* Some icons provided by FatCow.
+	- Creative Commons Attribution 3.0 License <http://www.fatcow.com/free-icons>
+	- FatCow (Farm Fresh Icons) <http://www.fatcow.com/free-icons>
+* Uses the JavaScript TabOverride library.
+	- GPL-Compatible License <https://github.com/wjbryant/taboverride>
+	- TabOverride <https://github.com/wjbryant/taboverride>
+* Uses the JavaScript Embedly plugin for jQuery.
+	- GPL-Compatible License <https://github.com/embedly/embedly-jquery>
+	- Embedly <https://github.com/embedly/embedly-jquery>
+* Uses the JavaScript Highlight.js library.
+	- GPL-Compatible License <https://github.com/isagalaev/highlight.js>
+	- Highlight.js <https://github.com/isagalaev/highlight.js>
+* Uses the JavaScript fancyBox plugin for jQuery.
+	- Licensed for commercial use, see: <http://sites.fastspring.com/fancyapps/product/store>
+	- fancyBox <http://www.fancyapps.com/fancybox/>
+* Uses Open Source Fonts via the Google Fonts API.
+	- All fonts open source, see: <http://www.google.com/fonts#AboutPlace:about>
+	- Google Fonts <http://www.google.com/fonts>
+* Markdown processing powered (in part) by Parsedown.
+	- MIT / GPL-Compatible License <https://github.com/erusev/parsedown/blob/master/LICENSE.txt>
+	- Parsedown <https://github.com/erusev/parsedown>

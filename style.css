@@ -1,0 +1,18 @@
+/*
+Version: 160122
+Text Domain: s2clean
+Theme Name: s2Clean
+
+License: Please see http://websharks-inc.com/product/s2clean/ for details.
+License URI: http://websharks-inc.com/product/s2clean/
+
+Author: s2Member® / WebSharks™
+Author URI: http://websharks-inc.com
+
+Theme URI: http://websharks-inc.com/product/s2clean/
+Description: A powerful (responsive) WordPress® theme; built on Bootstrap.
+Tags: flexible-width, custom-header, custom-menu, featured-images, microformats, post-formats, translation-ready, bootstrap
+
+A powerful (responsive) WordPress® theme; built on Bootstrap.
+*/
+@import 'src/client-s/css/theme.min.css?v=150402';
