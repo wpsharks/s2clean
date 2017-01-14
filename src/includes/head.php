@@ -1,7 +1,7 @@
 <?php namespace s2clean;
 
-if(!defined('WPINC')) // MUST have WordPress.
-	exit('Do NOT access this file directly: '.basename(__FILE__));
+if(!defined('WPINC'))
+	exit('Do NOT access this file directly.');
 $theme = theme(); // Theme instance.
 ?>
 <head>

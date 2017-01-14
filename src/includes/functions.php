@@ -1,8 +1,8 @@
 <?php
 namespace s2clean // Root namespace.
 {
-	if(!defined('WPINC')) // MUST have WordPress.
-		exit('Do NOT access this file directly: '.basename(__FILE__));
+	if(!defined('WPINC'))
+		exit('Do NOT access this file directly.');
 
 	if(!class_exists('\\'.__NAMESPACE__.'\\theme'))
 	{
